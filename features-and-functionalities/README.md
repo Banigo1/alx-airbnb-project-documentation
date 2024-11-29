@@ -104,6 +104,7 @@ Use email services like SendGrid or Mailgun for email notifications.
 Implement global error handling for APIs.
 
 # 🚀 Non-Functional Requirements
+
 ## 1. Scalability
 Use a modular architecture to ensure the app scales easily as traffic increases.
 Enable horizontal scaling using load balancers.
