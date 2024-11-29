@@ -9,27 +9,28 @@ Admins
 ## User Registration:
 Allow users to sign up as guests or hosts.
 Use secure authentication methods like JWT (JSON Web Tokens).
+
 ## User Login and Authentication:
 Implement login via email and password.
 Include OAuth options (e.g., Google, Facebook).
+
 # Profile Management:
 Enable users to update their profiles, including profile photos, contact info, and preferences.
-
 
 ## Add Listings:
 Hosts can create property listings by providing details such as title, description, location, price, amenities, and availability.
 ## Edit/Delete Listings:
 Hosts can update or remove their property listings.
 
-
 ## Booking Creation:
 Guests can book a property for specified dates.
 Prevent double bookings using date validation.
+
 ## Booking Cancellation:
 Allow guests or hosts to cancel bookings based on the cancellation policy.
+
 ## Booking Status:
 Track booking statuses such as pending, confirmed, canceled, or completed.
-
 
 ## API Development
 Use RESTful APIs to expose backend functionalities to the frontend.
