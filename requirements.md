@@ -19,6 +19,7 @@ Enable users to update their profiles, including profile photos, contact info, a
 
 ## Add Listings:
 Hosts can create property listings by providing details such as title, description, location, price, amenities, and availability.
+
 ## Edit/Delete Listings:
 Hosts can update or remove their property listings.
 
